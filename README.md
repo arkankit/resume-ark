@@ -1,1 +1,1 @@
-# capstone-resume-ark
+resume-ark
